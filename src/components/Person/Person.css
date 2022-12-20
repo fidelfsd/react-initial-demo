@@ -1,0 +1,7 @@
+.Person {
+    background-color: beige;
+    width: 200px;
+    padding: 1em;
+    margin: 1em;
+    display: inline-block;
+}
